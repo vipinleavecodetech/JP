@@ -1,0 +1,36 @@
+{
+    "fontawesome": {
+        "normal": "fontawesome_normal_7ea195556637d817f455524c7885b526"
+    },
+    "font awesome 5 brands": {
+        "normal": "font_awesome_5_brands_normal_2e6eeaf3b3c8ab1ba7f664d8ab077b11"
+    },
+    "font awesome 5 free": {
+        "normal": "\/home2\/leaveco1\/public_html\/storage\/fonts\/font_awesome_5_free_normal_8a4219a528da462112072509940424de",
+        "900": "font_awesome_5_free_900_6c6d3ce17d2a07cde5b7d78cafd58db1"
+    },
+    "material design icons": {
+        "normal": "material_design_icons_normal_737a0e9ef98b970d9d37f3daea4d677b"
+    },
+    "ionicons": {
+        "normal": "ionicons_normal_9abb25d3c97c479aa2e7e0a14bf15dee"
+    },
+    "themify": {
+        "normal": "themify_normal_523e5f2841edf05b29d2971a693445ae"
+    },
+    "simple-line-icons": {
+        "normal": "simple_line_icons_normal_13b55430649980cf366e204758c73873"
+    },
+    "weathericons": {
+        "normal": "weathericons_normal_c966e3843683a770db8595cc59afe3ad"
+    },
+    "typicons": {
+        "normal": "typicons_normal_c387e176c54d14d369071dab5f457d05"
+    },
+    "pe-icon-7-stroke": {
+        "normal": "pe_icon_7_stroke_normal_31ce6d4b771984a093b052641d744f82"
+    },
+    "montserrat": {
+        "normal": "montserrat_normal_676431fd5d218b739c7678c3eecff49f"
+    }
+}
